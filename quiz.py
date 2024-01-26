@@ -21,7 +21,7 @@ def game():
   earnings=0
    
   #i just created a for loop, even i dont know the reason why i created this loop. Task was still success without for loop.
-  
+  # actually I've created FOR loop for the return statement. Return is in else section so it will help to block remaining code from running
   for i in range(len(questions)):
       
     if i == 0:
